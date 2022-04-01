@@ -3,15 +3,15 @@
 """
 Hexlet: Project 1.
 
-Brain Even game.
+Brain Calc game.
 """
 
-from brain_games.games import game_even
+from brain_games.games import game_calc
 
 
 def main():
     """Run main."""
-    game_even.main()
+    game_calc.main()
 
 
 if __name__ == '__main__':
