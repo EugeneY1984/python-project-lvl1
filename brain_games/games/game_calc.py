@@ -3,7 +3,7 @@
 """Game - Check arifmetic expression."""
 
 import random
-import game
+from brain_games.games import game
 
 RULES = 'What is the result of the expression?'
 MIN_NUMBER = 1

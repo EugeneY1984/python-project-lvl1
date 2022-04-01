@@ -3,7 +3,7 @@
 """Game - Check even number."""
 
 import random
-import game
+from brain_games.games import game
 
 RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
 MIN_NUMBER = 1
