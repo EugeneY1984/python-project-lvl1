@@ -12,6 +12,7 @@ This studing project contains the following games:
 | Game          | Description                                               |
 |---------------|-----------------------------------------------------------|
 | Brain Even    | [Demo](https://asciinema.org/a/Wc67gazIVOMF5IDUqWgMbOFZ9) |
+| Brain Calc    | [Demo](https://asciinema.org/a/CO4VATRR0fKUkAuMN5xKXnO0a) |
 
 ### Links
 
