@@ -6,7 +6,7 @@ authors = ["eugene.yuriev <juriev_gek@mail.ru>"]
 packages = [
     { include = 'brain_games' },
 ]
-classifiers = "Environment :: Console"
+classifiers = ["Environment :: Console"]
 repository = "https://github.com/EugeneY1984/python-project-lvl1.git"
 
 
