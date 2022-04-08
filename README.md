@@ -7,15 +7,16 @@
 
 ### Description
 
-This studing project contains the following games:
+Instructions of installation and games:
 
-| Game             | Description                                               |
-|------------------|-----------------------------------------------------------|
-| Brain Even       | [Demo](https://asciinema.org/a/Wc67gazIVOMF5IDUqWgMbOFZ9) |
-| Brain Calc       | [Demo](https://asciinema.org/a/CO4VATRR0fKUkAuMN5xKXnO0a) |
-| Brain GCD        | [Demo](https://asciinema.org/a/aT29NyyYJ3QW3yfUp7FIoFFXu) |
-| Brain Progresion | [Demo](https://asciinema.org/a/2F4cRqIfNN6dbRQW4seD3BUA7) |
-| Brain Prime      | [Demo](https://asciinema.org/a/lVQQkgqNEdiXezteZqLrK8HZR) |
+| Game             | Description                                                       |
+|------------------|-------------------------------------------------------------------|
+| Installation     | [Installation](https://asciinema.org/a/bMerFqnLNwZmwBsp3cpeTMIQn) |
+| Brain Even       | [Demo](https://asciinema.org/a/POCg5HLRJtq1OwIdrqb0EOgYI)         |
+| Brain Calc       | [Demo](https://asciinema.org/a/CO4VATRR0fKUkAuMN5xKXnO0a)         |
+| Brain GCD        | [Demo](https://asciinema.org/a/aT29NyyYJ3QW3yfUp7FIoFFXu)         |
+| Brain Progresion | [Demo](https://asciinema.org/a/2F4cRqIfNN6dbRQW4seD3BUA7)         |
+| Brain Prime      | [Demo](https://asciinema.org/a/lVQQkgqNEdiXezteZqLrK8HZR)         |
 
 ### Links
 
