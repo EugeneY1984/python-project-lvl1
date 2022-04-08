@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-"""Game - Check even number."""
+"""Game - Find GCD (Greatest Common Divisor)."""
 
 import random
 import math

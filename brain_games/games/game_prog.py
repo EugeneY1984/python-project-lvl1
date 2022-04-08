@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-"""Game - Check even number."""
+"""Game - Find missed number."""
 
 import random
 from brain_games.games import game
