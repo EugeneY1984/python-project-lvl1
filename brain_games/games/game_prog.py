@@ -9,7 +9,7 @@ from brain_games.games import game
 RULES = 'What number is missing in the progression?'
 MIN_FIRST_NUMBER = 1
 MAX_FIRST_NUMBER = 20
-# MIN_NUMBERS_COUNT = 5
+MIN_NUMBERS_COUNT = 5
 MAX_NUMBERS_COUNT = 10
 MIN_PROGRESSION_STEP = 2
 MAX_PROGRESSION_STEP = 10
@@ -24,8 +24,7 @@ def get_question():
     """
     global correct_answer
     first_number = random.randint(MIN_FIRST_NUMBER, MAX_FIRST_NUMBER)
-    # numbers_count = random.randint(MIN_NUMBERS_COUNT, MAX_NUMBERS_COUNT)
-    numbers_count = MAX_NUMBERS_COUNT
+    numbers_count = random.randint(MIN_NUMBERS_COUNT, MAX_NUMBERS_COUNT)
     progression_step = random.randint(
         MIN_PROGRESSION_STEP, MAX_PROGRESSION_STEP)
     list = range(first_number, first_number + progression_step * numbers_count,
@@ -34,10 +33,10 @@ def get_question():
     result = ''
     for i, x in enumerate(list):
         if i == missed_number_index:
-            result += ' ..'
+            result += '.. '
             correct_answer = x
         else:
-            result += ' ' + str(x)
+            result += str(x) + ' '
 
     return result
 
